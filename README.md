@@ -58,12 +58,16 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Where does your data come from?
 
-| Source      | Description |
-|Product data Feed|Number and type of items, delivery time|
-| Historical item performance|number of Sales
-| | Text        |
+* Internal research (Product data Feed); (assortment, stock level, delivery time...)
+* Market reserach (Google/AI search); (market share, rival products and pricing, marketing campaigns...)
+* Historical item performance (sales, returns, promotions, bundles...)
+* Actual Season
+* Weather prediction
+* Customs duties and fees
+* Customer structure (New customers/repeat customers, Sinus-Milieus®)
+* Macroeconomic data (GFK-Konsumklima, inflation, unemployment rate, Wage levels, exchange rates...)
 
 ## Challenges
 
