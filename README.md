@@ -60,10 +60,10 @@ main()
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Historical item perfoemance|number of Sales       |
-| Paragraph   | Text        |
+| Source      | Description |
+|Product data Feed|Number and type of items, delivery time|
+| Historical item performance|number of Sales
+| | Text        |
 
 ## Challenges
 
