@@ -1,5 +1,5 @@
-# Building-AI-course-project
-elementsofai "Your AI idea" submission
+# Revenue Forecast for E-Commerce Online Shops
+Building-AI-course-project submission
 
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
