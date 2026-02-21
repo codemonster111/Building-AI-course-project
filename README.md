@@ -62,7 +62,7 @@ Where does your data come from? Do you collect it yourself or do you use data co
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| Historical item perfoemance|number of Sales       |
 | Paragraph   | Text        |
 
 ## Challenges
