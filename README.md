@@ -1,2 +1,2 @@
 # Building-AI-course-project
-elementsofai Y"our AI idea"
+elementsofai "Your AI idea" submission
