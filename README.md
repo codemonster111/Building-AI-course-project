@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Predicts the number of items sold in an e-commerce online shop within a specified period based on various input variables.
+Predicts the number of items sold in an e-commerce online shop within a specified period based on various input variables. Supports in business planning and order management.
 
 ## Background
 
@@ -23,12 +23,12 @@ How common or frequent is this problem?
 * High return rates, over-ordering, and disposal costs are harmful to the environment
 
 What is your personal motivation?
-* In my role as e-commerce manager, my colleagues and I face this problem every day. How can we purchase the perfect quantity of items and satisfy customers by selling them at a fair price?
+* In my role as e-commerce shop manager and with a keen personal interest in AI, I see a wide range of potential applications in numerous areas of online business.
 
 
 ## How is it used?
 
-The tool may forecast the amount per item sold within a specified period of time (e.g. one month) given on the past performance of that item, rival products on the market and in your own shop. It could also highlight potential for new items, marketing campaigns, warn about overstocking or understocking etc.
+Once started, the tool may forecast the amount per item sold within a specified period of time (e.g. one month) given on the past performance of that item, rival products on the market and in your own shop. It could also highlight potential for new items, marketing campaigns, warn about overstocking or understocking etc.
 
 
 Images will make your README look nice!
@@ -60,28 +60,30 @@ main()
 ## Data sources and AI methods
 Where does your data come from?
 
-* Internal research (Product data Feed); (assortment, stock level, delivery time...)
-* Market reserach (Google/AI search); (market share, rival products and pricing, marketing campaigns...)
-* Historical item performance (sales, returns, promotions, bundles...)
-* Actual Season
-* Weather prediction
+* Internal research (product data feed); (product range, inventory, delivery times, etc.)
+* Market research (Google Trends/AI search, social listening); (market share, competing products and pricing, marketing campaigns, etc.)
+* Historical product performance (sales, returns, promotions, bundles, etc.)
+* Current season (events, holidays)
+* Weather forecast
 * Customs duties and fees
-* Customer structure (New customers/repeat customers, Sinus-Milieus®)
-* Macroeconomic data (GFK-Konsumklima, inflation, unemployment rate, Wage levels, exchange rates...)
+* Customer structure (new customers/regular customers, Sinus-Milieus®)
+* Macroeconomic data (GFK consumer climate, inflation, unemployment rate, wage levels, exchange rates...)
 
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+* While the tool can assist with planning in purchasing and sales, the results must always be questioned by a “human in the loop.” An insufficient data basis, unforeseen events (black swan events), and other influencing factors can distort the quality of the algorithm.
+
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on?
+
+* Advanced AI knowledge, multilateral cooperation between various departments, and a high-quality database are prerequisites for the success of the project.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* XXXLutz Sverige
+* Sinus-Milieus® Deutschland 
+* GfK Konsumklima powered by NIM
