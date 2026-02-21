@@ -1,24 +1,35 @@
-# Revenue Forecast for E-Commerce Online Shops
+# Sales Forecast for E-Commerce Online Shops
 
 Final project for the Building AI course
 
 ## Summary
 
-Predicts the revenue of an E-Commerce Online Shop, based on variuos input variables.
+Predicts the number of items sold in an e-commerce online shop within a specified period based on various input variables.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Which problems does your idea solve?
+* Provides a more accurate basis for purchasing the right quantity of items per product group/category
+* Provides a better basis for general business decisions (planning of sales and storage space, expansion, personnel planning, etc.)
+* Prevents over-ordering, transportation costs, inventory management costs, disposal fees, and waste
+* Helps optimize budget and free cash flow
+* Minimizes dead capital
+* Helps optimize pricing and product margins
+* Enables improved positioning in purchasing negotiations and risk management
+* Increases customer satisfaction
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+How common or frequent is this problem? 
+* Continuousely growing number of e-commerce online shops worldwide
+* High return rates, over-ordering, and disposal costs are harmful to the environment
+
+What is your personal motivation?
+* In my role as e-commerce manager, my colleagues and I face this problem every day. How can we purchase the perfect quantity of items and satisfy customers by selling them at a fair price?
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The tool may forecast the amount per item sold within a specified period of time (e.g. one month) given on the past performance of that item, rival products on the market and in your own shop. It could also highlight potential for new items, marketing campaigns, warn about overstocking or understocking etc.
+
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -48,8 +59,6 @@ main()
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
 | Syntax      | Description |
 | ----------- | ----------- |
